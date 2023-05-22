@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Fleur-de-lis",
+          "alias": "Lily-Anne Summers",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "Ilex"
         },
         {
           "callsign": "Kal",
@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
+        "planet": "Earth",
+        "year": "AA 0005",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "River Styx",
+        "headerSubtitle": "Defense Force",
+        "subheaderTitle": "Mobile Suit Divison",
+        "subheaderSubtitle": "Unit 01",
       },
       "options":{
         "eventsMarkdownPerMission": true
