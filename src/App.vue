@@ -117,20 +117,28 @@ export default {
           "mech": "Secondhand Blues"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
+          "callsign": "Ares",
+          "alias": "Melody 'Mel' Nightwing",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "The Gods Have Spoken"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Aphrodite",
+          "alias": "Rayne 'Ray' Teach",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "Big Chungus"
+        },
+        {
+          "callsign": "Prometheus",
+          "alias": "Erik Anquetil",
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Preulude to Inferno"
         },
         {
           "callsign": "Compadre",
@@ -149,7 +157,7 @@ export default {
         "ring": "Atlas-Line",
         "headerTitle": "River Styx",
         "headerSubtitle": "Defense Force",
-        "subheaderTitle": "Mobile Suit Divison",
+        "subheaderTitle": "Mobile Suit Division",
         "subheaderSubtitle": "Unit 01",
       },
       "options":{
