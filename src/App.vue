@@ -152,9 +152,7 @@ export default {
       "header": {
         "planet": "Earth",
         "year": "AA 0005",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "system": "Milky Way",
         "headerTitle": "River Styx",
         "headerSubtitle": "Defense Force",
         "subheaderTitle": "Mobile Suit Division",
