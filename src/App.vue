@@ -153,6 +153,8 @@ export default {
         "planet": "Earth",
         "year": "AA 0005",
         "system": "Milky Way",
+        "gate": "Atlas-Quanokrim",
+        "ring": "Atlas-Line",
         "headerTitle": "River Styx",
         "headerSubtitle": "Defense Force",
         "subheaderTitle": "Mobile Suit Division",
